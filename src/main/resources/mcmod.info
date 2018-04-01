@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kos",
+  "name": "Kingdoms Of Striastria",
+  "description": "This is such a WIP I don\'t know what it does.",
+  "version": "0.0.1-SNAPSHOT",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AJStri"],
+  "credits": "Yay!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [mod_minecraftForge]
+}
+]

@@ -1,0 +1,11 @@
+# Items
+
+item.ingotCopper.name=Copper Ingot
+
+# Blocks
+
+tile.oreCopper.name=Copper Ore
+
+# Mod Title
+
+itemGroup.kos=Kingdoms Of Striastria
